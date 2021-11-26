@@ -1,5 +1,5 @@
 ### Hi there 👋
-###### I am currently working on Javascript in Alogoworks.
+###### I am currently working on Javascript(ReactJS, NodeJS, ReactNative) in Alogoworks.
 <!--
 **Avhishek05/Avhishek05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
